@@ -1,0 +1,15 @@
+{
+  "name": "yeti_content_server",
+  "version": "1.0.0",
+  "description": "Content server because stuff is getting real",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Brown",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
